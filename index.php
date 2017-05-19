@@ -1,4 +1,3 @@
-
 <?php $bgurl="img/beach.jpg";
 include("header.php"); 
 
