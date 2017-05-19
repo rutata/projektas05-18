@@ -1,0 +1,19 @@
+.wrapper {
+	width: 100%;
+	max-width: 992px;
+	margin: 0 auto;
+}
+
+
+.personal-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.personal-list-item {
+
+	width: 33.33333%;
+	display: inline-block;
+	text-align: center;
+}

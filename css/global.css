@@ -1,0 +1,27 @@
+
+.logo {
+	position: absolute;
+	top:16px;
+	left: 40px;
+}
+
+.remejai li {
+	display: inline-block;
+}
+
+.text-wide {
+	width: 90%;
+	max-width: 4000px;
+}
+
+.partner-text {
+	padding-right: 200px;
+}
+
+.nav-wrapper {
+	padding-right: 40px;
+}
+
+.breadcrumb {
+	padding-left: 40px;
+}
