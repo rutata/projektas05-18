@@ -14,7 +14,7 @@
 </header>
 <div class="foto-fonas"> </div>
 
-<h2>Europa</h2>
+<h2>Europe</h2>
 
 <div class="europa-tekstas">
  <p class="pagrindinis-tekstas">
@@ -25,162 +25,183 @@ Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the
 The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast.
 </p>
 </div>
-
 <div class="europos-valstybes">
-	<h3 class="h3-pavadinimas">Alphabetical list of countries in Europe you can visit</h3>
+	<h3 class="h3-pavadinimas">Choose the country you would like to visit!</h3>
 	<p class="valstybiu-sarasas">
 
 <div class="alphabet-countries">
-<p class="alphabet-letters">A</p>
-<ul>
-	<li>
-		<ul><li>Albania</li>
-		Andorra
-		Armenia
-		Austria
-		Azerbaijan
+
+	<div class="countries-list">
+		<h3>A</h3>
+			<ul>
+				<a href="1"><li>Albania</li></a>
+				<a href="1"><li>Andorra</li></a>
+				<a href="1"><li>Armenia</li></a>
+				<a href="1"><li>Austria</li></a>
+				<a href="1"><li>Azerbaijan</li></a>
+			</ul>
+		</div>
+
+	<div class="countries-list">
+	<h3>B</h3>
+		<ul>
+			<a href="1"><li>Belarus</li></a>
+			<a href="1"><li>Belgium</li></a>
+			<a href="1"><li>Bosnia and Herzegovina</li></a>
+			<a href="1"><li>Bulgaria</li></a>
 		</ul>
-	</li>
-</ul>
-<p class="alphabet-letters">B</p>
-<ul>
-<li>
-Belarus
-Belgium
-Bosnia and Herzegovina
-Bulgaria
-</li>
-</ul>
-<p class="alphabet-letters">C</p>
-<ul>
-<li>
-Croatia
-Cyprus
-Czech Republic
-</li>
-</ul>
-<p class="alphabet-letters">D</p>
-<ul>
-<li>
-Denmark
-</li>
-</ul>
-<p class="alphabet-letters">E</p>
-<ul>
-<li>
-Estonia
-</li>
-</ul>
-<p class="alphabet-letters">F</p>
-<ul>
-<li>
-Finland
-France
-</li>
-</ul>
-<p class="alphabet-letters">G</p>
-<ul>
-<li>
-Georgia
-Germany
-Greece
-</li>
-</ul>
-<p class="alphabet-letters">H</p>
-<ul>
-<li>
-Hungary
-</li>
-</ul>
-<p class="alphabet-letters">I</p>
-<ul>
-<li>
-Iceland
-Ireland
-Italy
-</li>
-</ul>
-<p class="alphabet-letters">K</p>
-<ul>
-<li>
-Kazakhstan
-Kosovo
-</li>
-</ul>
-<p class="alphabet-letters">L</p>
-<ul>
-<li>
-Latvia
-Liechtenstein
-Lithuania
-Luxembourg
-</li>
-</ul>
-<p class="alphabet-letters">M</p>
-<ul>
-<li>
-Macedonia (FYROM)
-Malta
-Moldova
-Monaco
-Montenegro
-</li>
-</ul>
-<p class="alphabet-letters">N</p>
-<ul>
-<li>
-Netherlands
-Norway
-</li>
-</ul>
-<p class="alphabet-letters">P</p>
-<ul>
-<li>
-Poland
-Portugal
-</li>
-</ul>
-<p class="alphabet-letters">R</p>
-<ul>
-<li>
-Romania
-Russia
-</li>
-</ul>
-<p class="alphabet-letters">S</p>
-<ul>
-<li>
-San Marino
-Serbia
-Slovakia
-Slovenia
-Spain
-Sweden
-Switzerland
-</li>
-</ul>
-<p class="alphabet-letters">T</p>
-<ul>
-<li>
-Turkey
-</li>
-</ul>
-<p class="alphabet-letters">U</p>
-<ul>
-<li>
-Ukraine
-United Kingdom (UK)
-</li>
-</ul>
-<p class="alphabet-letters">V</p>
-<ul>
-<li>
-Vatican City
-</li>
-</ul>
+	</div>
+
+<div class="countries-list">
+	<h3>C</h3>
+		<ul>
+			<a href="1"><li>Croatia</li></a>
+			<a href="1"><li>Cyprus</li></a>
+			<a href="1"><li>Czech Republic</li></a>
+		</ul>
+	</div>
+
+<div class="countries-list">
+	<h3>D</h3>
+		<ul>
+			<a href="1"><li>Denmark</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>E</h3>
+		<ul>
+			<a href="1"><li>Estonia</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>F</h3>
+		<ul>
+			<a href="1"><li>Finland</li></a>
+			<a href="1"><li>France</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>G</h3>
+		<ul>
+			<a href="1"><li>Georgia</li></a>
+			<a href="1"><li>Germany</li></a>
+			<a href="1"><li>Greece</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>H</h3>
+		<ul>
+			<a href="1"<li>Hungary</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>I</h3>
+		<ul>
+			<a href="1"<li>Iceland</li></a>
+			<a href="1"<li>Ireland</li></a>
+			<a href="1"<li>Italy</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>K</h3>
+		<ul>
+			<a href="1"<li>Kazakhstan</li></a>
+			<a href="1"<li>Kosovo</li></a>
+		</ul>
+</div>
+<div class="countries-list">
+<h3>L</h3>
+		<ul> 
+			<a href="1" <li>Latvia</li></a>
+			<a href="1" <li>Liechtenstein</li></a>
+			<a href="1" <li>Lithuania</li></a>
+			<a href="1" <li>Luxembourg</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>M</h3>
+		<ul>
+			<a href="1"<li>Macedonia</li></a>
+			<a href="1"<li>Malta</li></a>
+			<a href="1"<li>Moldova</li></a>
+			<a href="1"<li>Monaco</li></a>
+			<a href="1"<li>Montenegro</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>N</h3>
+		<ul>
+			<a href="1"<li>Netherlands</li></a>
+			<a href="1"<li>Norway</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>P</h3>
+		<ul>
+			<a href="1"<li>Poland</li></a>
+			<a href="1"<li>Portugal </li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>P</h3>
+		<ul>
+			<a href="1"<li>Romania</li></a>
+			<a href="1"<li>Russia</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+	<h3>S</h3>
+	
+		<ul>
+			<a href="1"<li>San Marino</li></a>
+			<a href="1"<li>Serbia</li></a>
+			<a href="1"<li>Slovakia</li></a>
+			<a href="1"<li>Slovenia</li></a>
+			<a href="1"<li>Spain</li></a>
+			<a href="1"<li>Sweden</li></a>
+			<a href="1"<li>Switzerland</li></a>
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>T</h3>
+		<ul>
+			<a href="1"<li>Turkey</li></a>	
+		</ul>
+
+</div>
+
+<div class="countries-list">
+<h3>U</h3>
+		<ul>
+			<a href="1"<li>Ukraine</li></a>	
+			<a href="1"<li>United Kingdom</li></a>	
+		</ul>
+</div>
+
+<div class="countries-list">
+<h3>V</h3>
+		<ul>
+			<a href="1"<li> Vatican City</li></a>	
+		</ul>
+</div>
+
 </div>
 </p>
+
 </div>
+
 <div class="zemynai-apacioje">
 	<ul class="zemynu-listas">
 		<li >
@@ -189,14 +210,14 @@ Vatican City
 				<p class="mini-aprasymas">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
 				do eiusmodtempor incididunt ut labore et dolore magna aliqua. 
 				consequat. </p>
-				<button type="button">More!</button>
+				<button type="button">Trip now!</button>
 		</li><!--  
 		--><li>
 		<img class="zemynu-foto" src="img/north-america.jpg">
 				<a href="2"><p class="zemyno-pavadinimas"> North America</p></a>
 				<p class="mini-aprasymas"> Duis aute irure dolor in reprehenderit in voluptate velit
 				esse cillum dolore eu fugiat nullapariatur.</p>
-				<button type="button">More!</button>
+				<button type="button">Trip now!</button>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto"src="img/south-america.jpg">
@@ -206,7 +227,7 @@ Vatican City
 				ullamco laboris nisi ut aliquip
 				ex ea commodoconsequat.  
 				</p>
-				<button type="button">More!</button>
+				<button type="button">Trip now!</button>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto" src="img/asia.jpg">
@@ -216,7 +237,7 @@ Vatican City
 				ullamco laboris nisi ut aliquip
 				ex ea commodoconsequat.  
 				</p>
-				<button type="button">More!</button>
+				<button type="button">Trip now!</button>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto"src="img/australia.png">
@@ -226,7 +247,7 @@ Vatican City
 				ullamco laboris nisi ut aliquip
 				ex ea commodoconsequat.  
 				</p>
-				<button type="button">More!</button>
+				<button type="button">Trip now!</button>
 		</li>
 </ul>
 </div>
