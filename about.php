@@ -51,18 +51,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h1>The Geographical Centre Of Europe</h1>
 
-<script>
-function myMap() {
-var mapProp= {
-    center:new google.maps.LatLng(54.9065, 25.3189),
-    zoom:5,
-};
-var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-</script>
 
-<script src="https://www.google.lt/maps/place/The+Geographical+Centre+Of+Europe/@54.9065153,25.318949,15z/data=!4m5!3m4!1s0x0:0x76b1399af8c6ae11!8m2!3d54.9065153!4d25.318949"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9175.181131392099!2d25.318949!3d54.9065153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76b1399af8c6ae11!2sThe+Geographical+Centre+Of+Europe!5e0!3m2!1sen!2slt!4v1495215770359" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 
 	<p class="contact-info">
 		<li>Name: Vilnius Coding School</li>
