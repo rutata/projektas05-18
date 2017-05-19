@@ -55,5 +55,10 @@
             </div>
           </footer>
 
+          
+  <script src="js/scripts.js"></script>
+  <script src="js/vytautas.js"></script>
+  <script src="js/ruta.js"></script>
+
 </body>
 </html>

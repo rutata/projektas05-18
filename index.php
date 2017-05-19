@@ -1,6 +1,8 @@
-<?php include("header.php");
-	?>
 
+<?php $bgurl="img/beach.jpg";
+include("header.php"); 
+
+	?>
 
 
 		<div class="carousel">
@@ -38,17 +40,3 @@
 
 <?php include("footer.php");
 	?>
-
-
-
-
-		
-
-
-	<script src="js/scripts.js"></script>
-	<script src="js/vytautas.js"></script>
-	<script src="js/ruta.js"></script>
-        
-
-</body>
-</html>
