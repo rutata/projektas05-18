@@ -1,0 +1,52 @@
+/*single entry puslapio stilius*/
+body {
+background-color: rgba(92, 133, 255, 0.70);
+}
+
+body {
+font-style: sans-serif;
+font-size: 20px;
+}
+
+h2 {
+	text-align: center;
+	height: 400px;
+    background-image: url("./../img/europe-from-space.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+h2 {
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #FFFA5D;
+  font-size: 50px;
+
+}
+.europa-tekstas{
+    
+}
+
+.valstybiu-sarasas{
+	column-count: 4;
+}
+
+.zemynu-foto {
+	height: 100px;
+	margin-top: 35px;
+
+}
+.zemynu-listas {
+display: inline;
+	margin-left: 0px;
+	padding: 0;
+}
+
+.zemynu-listas li {
+	width: 20%;
+	display: inline-block;
+	float: left;
+}
