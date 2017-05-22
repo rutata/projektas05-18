@@ -131,6 +131,9 @@ display: inline;
     background-repeat: no-repeat;
     background-position: 70% 80%;
 }
+.travel-quoutes {
+	text-align: center;
+}
 
 .why-travel {
 	background-image: url("./../img/about222.jpg");
@@ -151,4 +154,7 @@ padding: 0;
 	margin top: 42;
 	margin bottom: 42;
 	padding-left: 18px;
+}
+.blue-font li {
+	color: #2196f3;
 }

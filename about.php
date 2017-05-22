@@ -96,11 +96,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 	<p class="contact-info">
 		<h4>Short instruction how to travel</h4>
-		<li>Wish to travel.</li>
+		<li class="blue-font">Wish to travel.</li>
 		<li>Choose a direction.</li>
-		<li>Fill up your bag.</li>
+		<li class="blue-font">Fill up your bag.</li>
 		<li> Take a bike, bus, plane or train.</li>
-		<li>... And GO!</li>
+		<li class="blue-font">... And GO!</li>
 	</p>
 
 </div>

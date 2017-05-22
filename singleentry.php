@@ -250,16 +250,14 @@ The European climate is largely affected by warm Atlantic currents that temper w
 		<li >
 		<img class="zemynu-foto" src="img/antarctica-tour.jpg">
 				<a href="2"><p class="zemyno-pavadinimas">Antarctica</p></a>
-				<p class="mini-aprasymas">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-				do eiusmodtempor incididunt ut labore et dolore magna aliqua. 
-				consequat. </p>
+				<p class="mini-aprasymas">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 				<button class="button" type="button">Trip now!</button>
 		</li><!--  
 		--><li>
 		<img class="zemynu-foto" src="img/north-america.jpg">
 				<a href="2"><p class="zemyno-pavadinimas"> North America</p></a>
 				<p class="mini-aprasymas"> Duis aute irure dolor in reprehenderit in voluptate velit
-				esse cillum dolore eu fugiat nullapariatur.</p>
+				</p>
 				<button class="button" type="button">Trip now!</button>
 		</li><!--  
 		--><li>
