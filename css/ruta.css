@@ -43,11 +43,13 @@ color: white;
 
 h2 {
 	text-align: center;
-	height: 400px;
+	height: 600px;
     background-image: url("./../img/europe333.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 70% 80%;
+    background-position: 90% 110%;
+    background-attachment: fixed;
+
 }
 
 h2 {
@@ -125,11 +127,12 @@ display: inline;
 
 .about-photo {
 	text-align: center;
-	height: 400px;
+	height: 600px;
     background-image: url("./../img/about-us.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 70% 80%;
+    background-position: 90% 80%;
+    background-attachment: fixed;
 }
 .travel-quoutes {
 	text-align: center;
@@ -143,6 +146,9 @@ display: inline;
 	background-size: cover;
 	background-repeat: no-repeat;
     background-position: 70% 80%;
+    height: 500px;
+    margin-top: 70px;
+    background-attachment: fixed; /*NEZINAU AR PALIKTI*/
 }
 
 .info-inline {
@@ -151,9 +157,9 @@ padding: 0;
 }
 
 .contact-info h4{
-	margin top: 42;
-	margin bottom: 42;
+
 	padding-left: 18px;
+	margin: 0;
 }
 .blue-font li {
 	color: #2196f3;

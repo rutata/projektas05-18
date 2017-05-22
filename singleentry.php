@@ -273,9 +273,7 @@ The European climate is largely affected by warm Atlantic currents that temper w
 		<img  class="zemynu-foto" src="img/asia.jpg">
 				<a href="2"><p class="zemyno-pavadinimas">Asia</p></a>
 				<p class="aprasymai"> Ut enim ad minim veniam,
-				quis nostrud exercitation
-				 
-				</p>
+				quis nostrud exercitation</p>
 				<button class="button" type="button">Trip now!</button>
 		</li><!--  
 		--><li>
@@ -283,7 +281,6 @@ The European climate is largely affected by warm Atlantic currents that temper w
 				<a href="2"><p class="zemyno-pavadinimas">Australia</p></a>
 				<p class="aprasymai"> Ut enim ad minim veniam,
 				quis nostrud exercitation
-				
 				</p>
 				<button class="button" type="button">Trip now!</button>
 		</li>
