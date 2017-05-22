@@ -13,6 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="css/ruta.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 </head>
+
 <body class="img-fix" style="background-image: url(<?php echo $bgurl; ?>);">
 
 

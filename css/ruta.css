@@ -1,3 +1,35 @@
+/*Globalus css*/
+.logo {
+	position: absolute;
+	top:16px;
+	left: 40px;
+}
+
+.remejai li {
+	display: inline-block;
+}
+
+.text-wide {
+	width: 90%;
+	max-width: 4000px;
+}
+
+.partner-text {
+	padding-right: 200px;
+}
+
+.nav-wrapper {
+	padding-right: 40px;
+}
+
+.breadcrumb {
+	padding-left: 40px;
+}
+
+.img-fix {
+	background-attachment: fixed;
+}
+
 /*single entry puslapio stilius*/
 body {
 background-color: rgba(92, 133, 255, 0.70);
@@ -6,16 +38,16 @@ background-color: rgba(92, 133, 255, 0.70);
 body {
 font-style: sans-serif;
 font-size: 20px;
+color: white;
 }
 
 h2 {
 	text-align: center;
 	height: 400px;
-    background-image: url("./../img/europe-from-space.jpg");
+    background-image: url("./../img/europe333.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
-    border-radius: 10%;
+    background-position: 70% 80%;
 }
 
 h2 {
@@ -23,8 +55,13 @@ h2 {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  color: #FFFA5D;
-  font-size: 50px;
+  color: white;
+  font-size: 90px;
+}
+
+h3 {
+	text-align: center;
+	margin: 60px;
 }
 
 .countries-list {
@@ -35,10 +72,12 @@ h2 {
 }
 .countries-list h3 {
 	text-align: center;
+	margin:	20px;
+	padding: 0;
 }
 
 .countries-list a {
-color: white;
+color: #2196f3;
 }
 
 .alphabet-countries {
@@ -62,4 +101,54 @@ display: inline;
 	float: left;
 }
 
+.button {
+    text-transform: none;
+    color: white;
+    background: #2196f3;
+    font: inherit;
+    margin: 0;
+    color: #2196f3;
+}
+
+.button, select {
+   
+    color: white;
+    background: #2196f3;
+    border-radius: 30%;
+}
+
+.page-footer {
+	display: inline-block;
+}
+
 /*about puslapio stilius*/
+
+.about-photo {
+	text-align: center;
+	height: 400px;
+    background-image: url("./../img/about-us.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 70% 80%;
+}
+
+.why-travel {
+	background-image: url("./../img/about222.jpg");
+	padding-left: 20px;
+	margin-top: 10px;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: 70% 80%;
+}
+
+.info-inline {
+text-align: center;
+padding: 0;
+}
+
+.contact-info h4{
+	margin top: 42;
+	margin bottom: 42;
+	padding-left: 18px;
+}
