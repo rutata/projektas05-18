@@ -10,7 +10,7 @@
 }
 
 .text-wide {
-	width: 90%;
+	width: 70%;
 	max-width: 4000px;
 }
 
@@ -29,6 +29,10 @@
 .img-fix {
 	background-attachment: fixed;
 }
+.page-footer {
+	margin-bottom: 50px;
+    margin-top: 50px;
+}
 
 /*single entry puslapio stilius*/
 body {
@@ -41,6 +45,10 @@ font-size: 20px;
 color: white;
 }
 
+html, body{
+	 min-height: 100%;
+}
+
 h2 {
 	text-align: center;
 	height: 600px;
@@ -49,7 +57,6 @@ h2 {
     background-repeat: no-repeat;
     background-position: 90% 110%;
     background-attachment: fixed;
-
 }
 
 h2 {
@@ -61,9 +68,10 @@ h2 {
   font-size: 90px;
 }
 
+
 h3 {
 	text-align: center;
-	margin: 60px;
+	margin: 40px;
 }
 
 .countries-list {
@@ -71,6 +79,7 @@ h3 {
 	width: 14.286%;
 	font-size: 16px;
 	vertical-align: top;
+	 position: relative;
 }
 .countries-list h3 {
 	text-align: center;
@@ -79,16 +88,28 @@ h3 {
 }
 
 .countries-list a {
-color: #2196f3;
+color: #ffd600;
+   
 }
 
 .alphabet-countries {
-font-size: 0;
+	font-size: 0;
+	background-image: url("./../img/countries-list.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+ 	justify-content: center;
+    position: relative;
 }
-
+.my-overlay {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
 .zemynu-foto {
 	height: 100px;
-	margin-top: 35px;
+	margin-top: 100px;
 }
 
 .zemynu-listas {
@@ -112,11 +133,11 @@ display: inline;
     color: #2196f3;
 }
 
-.button, select {
+.waves-effect, .waves-light, .btn {
    
     color: white;
     background: #2196f3;
-    border-radius: 30%;
+   
 }
 
 .page-footer {
@@ -164,3 +185,20 @@ padding: 0;
 .blue-font li {
 	color: #2196f3;
 }
+/*diagramos puslapio css*/
+
+h1 {
+	text-align: center;
+}
+
+.row-bg {
+	background-image: url("./../img/form-filling.jpg");
+	position: relative;
+	padding-left: 20px;
+	margin-top: 10px;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 20px;
+}
+

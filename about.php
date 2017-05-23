@@ -58,6 +58,9 @@
 <h2 class="about-photo">About us</h2>
 <div class="about-tekstas">
 <div class="about-ruta">
+
+<img src="./../img/pilots.jpg">
+
 <p>About Ruta</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

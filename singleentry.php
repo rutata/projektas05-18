@@ -5,7 +5,6 @@
 	<title>Tinklapio title apie keliones kuris keisis</title>
 
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/ruta.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	  <script src="js/scripts.js"></script>
   <script src="js/vytautas.js"></script>
@@ -68,182 +67,181 @@ Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the
 The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast.
 </p>
 </div>
-<div class="europos-valstybes">
-	<h3 class="h3-pavadinimas">Choose the country you would like to visit!</h3>
-	<p class="valstybiu-sarasas">
+			<div class="europos-valstybes">
+				<h3 class="h3-pavadinimas">Choose the country you would like to visit!</h3>
+				<p class="valstybiu-sarasas">
 
-<div class="alphabet-countries">
+			<div class="alphabet-countries">
+			<div class="my-overlay"></div>
 
-	<div class="countries-list">
-		<h3>A</h3>
-			<ul>
-				<a href="1"><li>Albania</li></a>
-				<a href="1"><li>Andorra</li></a>
-				<a href="1"><li>Armenia</li></a>
-				<a href="1"><li>Austria</li></a>
-				<a href="1"><li>Azerbaijan</li></a>
-			</ul>
-		</div>
+				<div class="countries-list">
+					<h3>A</h3>
+						<ul>
+							<a href="1"><li>Albania</li></a>
+							<a href="1"><li>Andorra</li></a>
+							<a href="1"><li>Armenia</li></a>
+							<a href="1"><li>Austria</li></a>
+							<a href="1"><li>Azerbaijan</li></a>
+						</ul>
+					</div>
 
-	<div class="countries-list">
-	<h3>B</h3>
-		<ul>
-			<a href="1"><li>Belarus</li></a>
-			<a href="1"><li>Belgium</li></a>
-			<a href="1"><li>Bosnia and Herzegovina</li></a>
-			<a href="1"><li>Bulgaria</li></a>
-		</ul>
-	</div>
+				<div class="countries-list">
+				<h3>B</h3>
+					<ul>
+						<a href="1"><li>Belarus</li></a>
+						<a href="1"><li>Belgium</li></a>
+						<a href="1"><li>Bosnia and Herzegovina</li></a>
+						<a href="1"><li>Bulgaria</li></a>
+					</ul>
+				</div>
 
-<div class="countries-list">
-	<h3>C</h3>
-		<ul>
-			<a href="1"><li>Croatia</li></a>
-			<a href="1"><li>Cyprus</li></a>
-			<a href="1"><li>Czech Republic</li></a>
-		</ul>
-	</div>
+			<div class="countries-list">
+				<h3>C</h3>
+					<ul>
+						<a href="1"><li>Croatia</li></a>
+						<a href="1"><li>Cyprus</li></a>
+						<a href="1"><li>Czech Republic</li></a>
+					</ul>
+				</div>
 
-<div class="countries-list">
-	<h3>D</h3>
-		<ul>
-			<a href="1"><li>Denmark</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+				<h3>D</h3>
+					<ul>
+						<a href="1"><li>Denmark</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>E</h3>
-		<ul>
-			<a href="1"><li>Estonia</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>E</h3>
+					<ul>
+						<a href="1"><li>Estonia</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>F</h3>
-		<ul>
-			<a href="1"><li>Finland</li></a>
-			<a href="1"><li>France</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>F</h3>
+					<ul>
+						<a href="1"><li>Finland</li></a>
+						<a href="1"><li>France</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>G</h3>
-		<ul>
-			<a href="1"><li>Georgia</li></a>
-			<a href="1"><li>Germany</li></a>
-			<a href="1"><li>Greece</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>G</h3>
+					<ul>
+						<a href="1"><li>Georgia</li></a>
+						<a href="1"><li>Germany</li></a>
+						<a href="1"><li>Greece</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>H</h3>
-		<ul>
-			<a href="1"<li>Hungary</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>H</h3>
+					<ul>
+						<a href="1"> <li>Hungary</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>I</h3>
-		<ul>
-			<a href="1"<li>Iceland</li></a>
-			<a href="1"<li>Ireland</li></a>
-			<a href="1"<li>Italy</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>I</h3>
+					<ul>
+						<a href="1"> <li>Iceland</li></a>
+						<a href="1"> <li>Ireland</li></a>
+						<a href="1"> <li>Italy</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>K</h3>
-		<ul>
-			<a href="1"<li>Kazakhstan</li></a>
-			<a href="1"<li>Kosovo</li></a>
-		</ul>
-</div>
-<div class="countries-list">
-<h3>L</h3>
-		<ul> 
-			<a href="1" <li>Latvia</li></a>
-			<a href="1" <li>Liechtenstein</li></a>
-			<a href="1" <li>Lithuania</li></a>
-			<a href="1" <li>Luxembourg</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>K</h3>
+					<ul>
+						<a href="1"> <li>Kazakhstan</li></a>
+						<a href="1"> <li>Kosovo</li></a>
+					</ul>
+			</div>
+			<div class="countries-list">
+			<h3>L</h3>
+					<ul> 
+						<a href="1"> <li>Latvia</li></a>
+						<a href="1"> <li>Liechtenstein</li></a>
+						<a href="1"> <li>Lithuania</li></a>
+						<a href="1"> <li>Luxembourg</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>M</h3>
-		<ul>
-			<a href="1"<li>Macedonia</li></a>
-			<a href="1"<li>Malta</li></a>
-			<a href="1"<li>Moldova</li></a>
-			<a href="1"<li>Monaco</li></a>
-			<a href="1"<li>Montenegro</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>M</h3>
+					<ul>
+						<a href="1"> <li>Macedonia</li></a>
+						<a href="1"> <li>Malta</li></a>
+						<a href="1"> <li>Moldova</li></a>
+						<a href="1"> <li>Monaco</li></a>
+						<a href="1"> <li>Montenegro</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>N</h3>
-		<ul>
-			<a href="1"<li>Netherlands</li></a>
-			<a href="1"<li>Norway</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>N</h3>
+					<ul>
+						<a href="1"> <li>Netherlands</li></a>
+						<a href="1"> <li>Norway</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>P</h3>
-		<ul>
-			<a href="1"<li>Poland</li></a>
-			<a href="1"<li>Portugal </li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>P</h3>
+					<ul>
+						<a href="1"> <li>Poland</li></a>
+						<a href="1"> <li>Portugal</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>P</h3>
-		<ul>
-			<a href="1"<li>Romania</li></a>
-			<a href="1"<li>Russia</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>P</h3>
+					<ul>
+						<a href="1"> <li>Romani</li></a>
+						<a href="1"> <li>Russi</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-	<h3>S</h3>
-	
-		<ul>
-			<a href="1"<li>San Marino</li></a>
-			<a href="1"<li>Serbia</li></a>
-			<a href="1"<li>Slovakia</li></a>
-			<a href="1"<li>Slovenia</li></a>
-			<a href="1"<li>Spain</li></a>
-			<a href="1"<li>Sweden</li></a>
-			<a href="1"<li>Switzerland</li></a>
-		</ul>
-</div>
+			<div class="countries-list">
+				<h3>S</h3>
+				
+					<ul>
+						<a href="1"> <li>San Marino</li></a>
+						<a href="1"> <li>Serbia</li></a>
+						<a href="1"> <li>Slovakia</li></a>
+						<a href="1"> <li>Slovenia</li></a>
+						<a href="1"> <li>Spain</li></a>
+						<a href="1"> <li>Sweden</li></a>
+						<a href="1"> <li>Switzerland</li></a>
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>T</h3>
-		<ul>
-			<a href="1"<li>Turkey</li></a>	
-		</ul>
+			<div class="countries-list">
+			<h3>T</h3>
+					<ul>
+						<a href="1"> <li>Turkey</li></a>	
+					</ul>
 
-</div>
+			</div>
 
-<div class="countries-list">
-<h3>U</h3>
-		<ul>
-			<a href="1" <li>Ukraine</li></a>	
-			<a href="1" <li>United Kingdom</li></a>	
-		</ul>
-</div>
+			<div class="countries-list">
+			<h3>U</h3>
+					<ul>
+						<a href="1"> <li>Ukraine</li></a>	
+						<a href="1"> <li>United Kingdom</li></a>	
+					</ul>
+			</div>
 
-<div class="countries-list">
-<h3>V</h3>
-		<ul>
-			<a href="1"<li> Vatican City</li></a>	
-		</ul>
-</div>
-
-</div>
-</p>
-
-</div>
+			<div class="countries-list">
+			<h3>V</h3>
+					<ul>
+						<a href="1"> <li> Vatican City</li></a>	
+					</ul>
+			</div>
+			</div>
+			</p>
+			</div>		
 
 <div class="zemynai-apacioje">
 	<ul class="zemynu-listas">
@@ -251,14 +249,14 @@ The European climate is largely affected by warm Atlantic currents that temper w
 		<img class="zemynu-foto" src="img/antarctica-tour.jpg">
 				<a href="2"><p class="zemyno-pavadinimas">Antarctica</p></a>
 				<p class="mini-aprasymas">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-				<button class="button" type="button">Trip now!</button>
+				<a class="waves-effect waves-light btn">Trip now</a>
 		</li><!--  
 		--><li>
 		<img class="zemynu-foto" src="img/north-america.jpg">
 				<a href="2"><p class="zemyno-pavadinimas"> North America</p></a>
 				<p class="mini-aprasymas"> Duis aute irure dolor in reprehenderit in voluptate velit
 				</p>
-				<button class="button" type="button">Trip now!</button>
+				<a class="waves-effect waves-light btn">Trip now</a>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto"src="img/south-america.jpg">
@@ -267,14 +265,14 @@ The European climate is largely affected by warm Atlantic currents that temper w
 				quis nostrud exercitation
 				 
 				</p>
-				<button class="button" type="button">Trip now!</button>
+				<a class="waves-effect waves-light btn">Trip now</a>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto" src="img/asia.jpg">
 				<a href="2"><p class="zemyno-pavadinimas">Asia</p></a>
 				<p class="aprasymai"> Ut enim ad minim veniam,
 				quis nostrud exercitation</p>
-				<button class="button" type="button">Trip now!</button>
+				<a class="waves-effect waves-light btn">Trip now</a>
 		</li><!--  
 		--><li>
 		<img  class="zemynu-foto"src="img/australia.png">
@@ -282,7 +280,7 @@ The European climate is largely affected by warm Atlantic currents that temper w
 				<p class="aprasymai"> Ut enim ad minim veniam,
 				quis nostrud exercitation
 				</p>
-				<button class="button" type="button">Trip now!</button>
+				<a class="waves-effect waves-light btn">Trip now</a>
 		</li>
 </ul>
 </div>
@@ -335,6 +333,6 @@ The European climate is largely affected by warm Atlantic currents that temper w
 
 
 
-
+<script type="text/javascript" src="path/to/script.js"></script>
 </body>
 </html>
