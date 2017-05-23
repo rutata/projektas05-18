@@ -9,9 +9,7 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/ruta.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-	  <script src="js/scripts.js"></script>
-  <script src="js/vytautas.js"></script>
-  <script src="js/ruta.js"></script>
+	  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
 	<link rel="stylesheet" type="text/css" href="css/vytautas.css">
 	<link rel="stylesheet" type="text/css" href="css/global.css">
@@ -58,8 +56,8 @@
 <h2 class="about-photo">About us</h2>
 <div class="about-tekstas">
 <div class="about-ruta">
-
-<img src="./../img/pilots.jpg">
+<hr>
+<img class="about-nuotrauka" src="img/pilots.jpg">
 
 <p>About Ruta</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -92,18 +90,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </ul>
 </p>
 
-
 </div>
 
 <div class="why-travel">
 
 	<p class="contact-info">
 		<h4>Short instruction how to travel</h4>
+		<ul id="staggered-test">
 		<li class="blue-font">Wish to travel.</li>
 		<li>Choose a direction.</li>
 		<li class="blue-font">Fill up your bag.</li>
 		<li> Take a bike, bus, plane or train.</li>
 		<li class="blue-font">... And GO!</li>
+		</ul>
 	</p>
 
 </div>
@@ -156,6 +155,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </footer>
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+          <script src="js/global.js"></script>
+  		<script src="js/vytautas.js"></script>
+  		<script src="js/ruta.js"></script>
 </body>
 </html>

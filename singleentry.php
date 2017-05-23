@@ -5,15 +5,19 @@
 	<title>Tinklapio title apie keliones kuris keisis</title>
 
 	<meta charset="utf-8">
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-	  <script src="js/scripts.js"></script>
-  <script src="js/vytautas.js"></script>
-  <script src="js/ruta.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
-	<link rel="stylesheet" type="text/css" href="css/vytautas.css">
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+ 		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
+			<link rel="stylesheet" type="text/css" href="css/vytautas.css">
+
 	<link rel="stylesheet" type="text/css" href="css/global.css">
-	<link rel="stylesheet" type="text/css" href="css/ruta.css">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+			<link rel="stylesheet" type="text/css" href="css/ruta.css">
+	
 	</head>
 
 <body>
@@ -331,8 +335,8 @@ The European climate is largely affected by warm Atlantic currents that temper w
 
 
 
-
-
-<script type="text/javascript" src="path/to/script.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/vytautas.js"></script>
+<script src="js/ruta.js"></script>
 </body>
 </html>
