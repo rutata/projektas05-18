@@ -1,3 +1,39 @@
+/*Globalus css*/
+.logo {
+	position: absolute;
+	top:16px;
+	left: 40px;
+}
+
+.remejai li {
+	display: inline-block;
+}
+
+.text-wide {
+	width: 70%;
+	max-width: 4000px;
+}
+
+.partner-text {
+	padding-right: 200px;
+}
+
+.nav-wrapper {
+	padding-right: 40px;
+}
+
+.breadcrumb {
+	padding-left: 40px;
+}
+
+.img-fix {
+	background-attachment: fixed;
+}
+.page-footer {
+	margin-bottom: 50px;
+    margin-top: 50px;
+}
+
 /*single entry puslapio stilius*/
 body {
 background-color: rgba(92, 133, 255, 0.70);
@@ -6,16 +42,21 @@ background-color: rgba(92, 133, 255, 0.70);
 body {
 font-style: sans-serif;
 font-size: 20px;
+color: white;
+}
+
+html, body{
+	 min-height: 100%;
 }
 
 h2 {
 	text-align: center;
-	height: 400px;
-    background-image: url("./../img/europe-from-space.jpg");
+	height: 600px;
+    background-image: url("./../img/europe333.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
-    border-radius: 10%;
+    background-position: 90% 110%;
+    background-attachment: fixed;
 }
 
 h2 {
@@ -23,8 +64,14 @@ h2 {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  color: #FFFA5D;
-  font-size: 50px;
+  color: white;
+  font-size: 90px;
+}
+
+
+h3 {
+	text-align: center;
+	margin: 40px;
 }
 
 .countries-list {
@@ -32,22 +79,37 @@ h2 {
 	width: 14.286%;
 	font-size: 16px;
 	vertical-align: top;
+	 position: relative;
 }
 .countries-list h3 {
 	text-align: center;
+	margin:	20px;
+	padding: 0;
 }
 
 .countries-list a {
-color: white;
+color: #ffd600;
+   
 }
 
 .alphabet-countries {
-font-size: 0;
+	font-size: 0;
+	background-image: url("./../img/countries-list.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+ 	justify-content: center;
+    position: relative;
 }
-
+.my-overlay {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
 .zemynu-foto {
 	height: 100px;
-	margin-top: 35px;
+	margin-top: 100px;
 }
 
 .zemynu-listas {
@@ -62,4 +124,81 @@ display: inline;
 	float: left;
 }
 
+.button {
+    text-transform: none;
+    color: white;
+    background: #2196f3;
+    font: inherit;
+    margin: 0;
+    color: #2196f3;
+}
+
+.waves-effect, .waves-light, .btn {
+   
+    color: white;
+    background: #2196f3;
+   
+}
+
+.page-footer {
+	display: inline-block;
+}
+
 /*about puslapio stilius*/
+
+.about-photo {
+	text-align: center;
+	height: 600px;
+    background-image: url("./../img/about-us.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90% 80%;
+    background-attachment: fixed;
+}
+.travel-quoutes {
+	text-align: center;
+}
+
+.why-travel {
+	background-image: url("./../img/about222.jpg");
+	padding-left: 20px;
+	margin-top: 10px;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: 70% 80%;
+    height: 500px;
+    margin-top: 70px;
+    background-attachment: fixed; /*NEZINAU AR PALIKTI*/
+}
+
+.info-inline {
+text-align: center;
+padding: 0;
+}
+
+.contact-info h4{
+
+	padding-left: 18px;
+	margin: 0;
+}
+.blue-font li {
+	color: #2196f3;
+}
+/*diagramos puslapio css*/
+
+h1 {
+	text-align: center;
+}
+
+.row-bg {
+	background-image: url("./../img/form-filling.jpg");
+	position: relative;
+	padding-left: 20px;
+	margin-top: 10px;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 20px;
+}
+
