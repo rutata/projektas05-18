@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-  <title>Musu Projektas</title>
-  <meta charset="utf-8">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-  
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
-  <link rel="stylesheet" type="text/css" href="css/vytautas.css">
-  <link rel="stylesheet" type="text/css" href="css/global.css">
-  <link rel="stylesheet" type="text/css" href="css/ruta.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
-</head>
-<body background="img/beach.jpg">
-
-<body>
 
              <footer class="page-footer blue lighten-2">
             <div class="container text-wide">
