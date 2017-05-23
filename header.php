@@ -31,6 +31,7 @@
 				<div class="nav-wrapper blue lighten-1">
 
 					<img class="logo" src="img/aeroplane.png" height="50" width="50">
+					<img class="logotrip" src="img/tripvision.png" height="90" width="200">
 					<ul class="right hide-on-med-and-down">
 						<li><a href="sass.html">News</a></li>
 						<li><a href="badges.html">About us</a></li>
@@ -40,10 +41,11 @@
 				</div>
 			</nav>
 
+
 			<nav>
 				<div class="nav-wrapper #1565c0 blue darken-3">
 					<div class="col s12">
-						<a href="#!" class="breadcrumb">First</a>
+						<a href="#!" class="breadcrumb">Home</a>
 					</div>
 				</div>
 			</nav>

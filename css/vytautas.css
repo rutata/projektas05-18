@@ -17,3 +17,71 @@
 	display: inline-block;
 	text-align: center;
 }
+
+.wrapper {
+	width: 100%;
+	max-width: 992px;
+	margin: 0 auto;
+}
+
+
+.personal-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.personal-list-item {
+
+	width: 33.33333%;
+	display: inline-block;
+	text-align: center;
+}
+
+.logo {
+	position: absolute;
+	top:16px;
+	left: 40px;
+}
+
+.remejai li {
+	display: inline-block;
+}
+
+.text-wide {
+	width: 90%;
+	max-width: 4000px;
+}
+
+.partner-text {
+	padding-right: 200px;
+}
+
+.nav-wrapper {
+	padding-right: 40px;
+}
+
+.breadcrumb {
+	padding-left: 40px;
+}
+
+.recom {
+	text-align: center;
+	
+}
+
+.mrg {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.card.horizontal .card-image {
+	width: 200px;
+}
+
+.card.horizontal .card-image .post-img {
+	height: 200px;
+	width: 100%;
+	background-size: cover;
+	background-position: center center;
+}

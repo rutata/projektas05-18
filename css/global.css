@@ -1,7 +1,7 @@
 
 .logo {
 	position: absolute;
-	top:16px;
+	top: 12px;
 	left: 40px;
 }
 
@@ -28,4 +28,11 @@
 
 .img-fix {
 	background-attachment: fixed;
+}
+
+.logotrip {
+	position: absolute;
+	top:0px;
+	left: 80px;
+	margin-left: 10px;
 }
