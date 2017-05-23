@@ -1,6 +1,6 @@
 
 
-             <footer class="page-footer blue lighten-2">
+             <footer class="page-footerr blue lighten-2">
             <div class="container text-wide">
               <div class="row">
                 <div class="col l6 s12">
