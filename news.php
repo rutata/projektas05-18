@@ -42,7 +42,7 @@ include("header.php"); ?>
 			<p>I am a very simple card. I am good at containing small bits of information.</p>
 		</div>
 		<div class="card-action">
-			<a href="#">Europe</a>
+			<a href="singleentry.php">Europe</a>
 		</div>
 	</div>
 </div>

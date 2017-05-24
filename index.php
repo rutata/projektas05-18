@@ -1,7 +1,8 @@
 <?php $bgurl="img/beach.jpg";
+
 include("header.php"); 
 
-	?>
+?>
 
 	<div class="slider">
     <ul class="slides">
@@ -81,7 +82,7 @@ include("header.php");
 					<button class="btn waves-effect waves-light" type="submit" name="action">Explore
     				<i class="material-icons right"></i>
   					</button>
-					<p>Malta is a Southern European island country consisting of an archipelago in the Mediterranean Sea. It lies 80 km south of Italy, 284 km (176 mi) east of Tunisia. The country covers just over 316 km2 with a population of just under 450,000. The capital of Malta is Valletta, which at 0.8 km2, is the smallest national capital in the European Union by area. Malta has one national language, which is Maltese, and English as an official language. </p>
+					<p>Malta is a Southern European island country consisting of an archipelago in the Mediterranean Sea. It lies 80 km south of Italy, 284 km (176 mi) east of Tunisia. The country covers just over 316 km2 with a population of just under 450,000. The capital of Malta is Valletta, which at 0.8 km2, is the smallest national capital in the ean Union by area. Malta has one national language, which is Maltese, and English as an official language. </p>
 				</li><!--
 				--><li class="personal-list-item">
 					<img src="img/turkey.jpg" height="200" width="200">

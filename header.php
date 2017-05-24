@@ -21,12 +21,12 @@
 		<!-- Dropdown Structure -->
 		<div>
 			<ul id="dropdown1" class="dropdown-content">
-				<li><a href="#!">Europa</a></li>
-				<li><a href="#!">Asia</a></li>
+				<li><a href="singleentry.php">Europe</a></li>
+				<li><a href="singleentry.php">Asia</a></li>
 				<li class="divider"></li>
-				<li><a href="#!">Antarctica</a></li>
-				<li><a href="#!">North America</a></li>
-				<li><a href="#!">South America</a></li>
+				<li><a href="singleentry.php">Antarctica</a></li>
+				<li><a href="singleentry.php">North America</a></li>
+				<li><a href="singleentry.php">South America</a></li>
 			</ul>
 			<nav>
 				<div class="nav-wrapper blue lighten-1">
@@ -34,8 +34,8 @@
 					<img class="logo" src="img/aeroplane.png" height="50" width="50">
 					<img class="logotrip" src="img/tripvision.png" height="90" width="200">
 					<ul class="right hide-on-med-and-down">
-						<li><a href="sass.html">News</a></li>
-						<li><a href="badges.html">About us</a></li>
+						<li><a href="news.php">News</a></li>
+						<li><a href="about.php">About us</a></li>
 						<!-- Dropdown Trigger -->
 						<li><a class="dropdown-button" href="#!" data-activates="dropdown1"><i class="material-icons right">Trips</i></a></li>
 					</ul>
@@ -46,7 +46,7 @@
 			<nav>
 				<div class="nav-wrapper #1565c0 blue darken-3">
 					<div class="col s12">
-						<a href="#!" class="breadcrumb">Home</a>
+						<a href="index.php" class="breadcrumb">Home</a>
 					</div>
 				</div>
 			</nav>
