@@ -36,6 +36,7 @@
 					<ul class="right hide-on-med-and-down">
 						<li><a href="news.php">News</a></li>
 						<li><a href="about.php">About us</a></li>
+						<li><a href="diagramos.php">Sign in</a></li>
 						<!-- Dropdown Trigger -->
 						<li><a class="dropdown-button" href="#!" data-activates="dropdown1"><i class="material-icons right">Trips</i></a></li>
 					</ul>
